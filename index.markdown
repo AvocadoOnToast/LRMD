@@ -5,5 +5,5 @@
 layout: funkytown
 title: Home
 ---
-![image](/assets/gifs/anim.gif)
+![image](/assets/gif/anim.gif)
 Welcome, this is where I explain the purpose of this project. Low Rolling Grad Students Doing Molecular Dynamics (LRGMD) is catered to anyone doing computational work and willing to sharing awesome artwork related to their projects.
